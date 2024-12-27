@@ -1,0 +1,3 @@
+# Stack Overflow in Recursive Hack Function
+
+This repository contains a simple Hack program that demonstrates a stack overflow error. The error occurs due to a missing base case in the recursive function `foo`. The function calculates the factorial of a number, but it continues to call itself without ever reaching a stopping condition, leading to an endless recursive loop and ultimately a stack overflow.  The solution demonstrates how to fix this problem.
